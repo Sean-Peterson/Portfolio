@@ -1,25 +1,20 @@
-html {
-  background-color: white;
-  text-align: center;
-}
+
 body {
-  padding: 10px 30px 10px 30px;
-  background-color: navajowhite;
-  margin: -1px;
-  border: solid white;
-  border-top: 20px solid white;
-  border-bottom: 20px solid white;
-  border-left: 50px solid white;
-  border-right: 50px solid white;
+  font-family: helvetica;
+}
+
+.about {
+  text-align: left;
 }
 
 h1 {
-  background-color: white;
-  width: 120px;
+  background-color: linear-gradient (blue, red, blue);
   position: fixed;
-  left: 60px;
-  float: left;
+  bottom: 0px;
+  right: 0px;
+  padding-right: 50px;
   color: maroon;
+
 }
 
 .pictures img{
@@ -30,6 +25,7 @@ h1 {
 
 .links ul {
   list-style: none;
+  padding-left: 0px;
 }
 
 .about span {
