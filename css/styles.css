@@ -23,7 +23,11 @@ h1 {
   padding: 10px;
 }
 
-.links ul {
+ol {
+  padding-left: 15px;
+}
+
+ul {
   list-style: none;
   padding-left: 0px;
 }
