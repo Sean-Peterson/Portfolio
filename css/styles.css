@@ -23,6 +23,10 @@ h1 {
   padding: 10px;
 }
 
+blockquote {
+  text-align: center;
+}
+
 ol {
   padding-left: 15px;
 }
