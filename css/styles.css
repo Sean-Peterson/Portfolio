@@ -19,6 +19,7 @@ h1 {
   position: fixed;
   left: 60px;
   float: left;
+  color: maroon;
 }
 
 .pictures img{
@@ -29,4 +30,8 @@ h1 {
 
 .links ul {
   list-style: none;
+}
+
+.about span {
+  color: maroon;
 }
