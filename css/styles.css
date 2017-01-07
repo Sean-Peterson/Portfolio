@@ -1,20 +1,26 @@
 
 body {
   font-family: helvetica;
+  background-color: gainsboro;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .about {
   text-align: left;
 }
 
-h1 {
-  background-color: linear-gradient (blue, red, blue);
+h3 {
   position: fixed;
-  bottom: 0px;
+  bottom: 30px;
   right: 0px;
   padding-right: 50px;
   color: maroon;
 
+}
+
+.pictures {
+  text-align: center;
 }
 
 .pictures img{
@@ -25,6 +31,10 @@ h1 {
 
 blockquote {
   text-align: center;
+}
+
+#last {
+  font-size: 16px;
 }
 
 ol {
